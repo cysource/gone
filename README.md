@@ -1,2 +1,2 @@
-# http://github.org/Cyso
-All repositories have been moved to http://github.org/Cyso
+# http://github.com/cyso
+All repositories have been moved to http://github.com/cyso
